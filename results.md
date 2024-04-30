@@ -6,6 +6,3 @@
 - the objectives of the team and the group leader are represented professionally in meetings and decision-making processes
 - Identify market opportunities and risks
 - Data analysis and evaluation Coordinate in a team
-## Data Scientist
-## Product Analyst
-## Marketing Manager
